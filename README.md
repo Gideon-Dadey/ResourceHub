@@ -19,14 +19,14 @@ Designed to help teams and individuals easily discover, organize, and manage lea
 
 📂 Project Structure
 Resources-main/
-├── public/               # Static assets (images, favicon, etc.)
+├── public/              
 ├── src/
-│   ├── assets/           # Logos, icons, and images
-│   ├── components/       # Reusable UI components
-│   ├── pages/            # Page-level components
-│   ├── App.tsx           # Root app
-│   ├── main.tsx          # Entry point
-│   └── theme.ts          # Chakra theme overrides
-├── index.html            # Main HTML file
-├── package.json          # Dependencies & scripts
-└── README.md             # Project documentation
+│   ├── assets/           
+│   ├── components/      
+│   ├── pages/           
+│   ├── App.tsx          
+│   ├── main.tsx         
+│   └── theme.ts         
+├── index.html           
+├── package.json         
+└── README.md             
